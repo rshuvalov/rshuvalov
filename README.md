@@ -71,7 +71,7 @@ Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch
 - Key programming languages: Node.js, JavaScript, Java, PHP, SQL.
 - Key frameworks: Express.js, Nest.js, React.js, Spring, Symfony.
 - Key databases: PostgreSQL, MySQL, MongoDB.
-- Additional skills: SOLID, TypeScript, Docker, CSS3, SCSS/SASS.
+- Additional skills: DevOps, SOLID, TypeScript, Docker, CSS3, SCSS/SASS.
 - Languages: English, Ukrainian.
 
 ## EDUCATION ##
