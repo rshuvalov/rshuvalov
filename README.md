@@ -48,7 +48,7 @@ Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch
 **JBW Soft** | Kyiv, Ukraine | Mar 2017 - August 2019
 - Analytics project (NDA). Application and database architecture designed. Micro-services architecture (Queue-based integration). Developed services: API service, client JS script (CDN), socket service, separate (parallel) backup service, and admin panel service. Integrated with clients.<br/>
   **Stack**: Node.js, Express.js, SoketIO, React.js, TypeScript, Symfony 4 (PHP 7.3), PostgreSQL, MongoDB, Docker, RabbitMQ, Rest API.
-- Worked on CRM (NDA). Developed new features, fixed bugs, refactored code, optimized architecture, normalized database, and integrated with remote services.
+- Worked on CRM (NDA). Developed new features, fixed bugs, refactored code, optimized architecture, normalized database, and integrated with remote services.<br/>
   **Stack**: Yii2 (PHP 7.1), MySQL (5.6), React.js, Docker, RabbitMQ, Redis, AWS.
 - Worked on order form and customer cabinet (NDA). Developed new features, developed tests, fixed bugs, and refactored code.<br/>
   **Stack**: AngularJS (ES6), Docker, SCSS, Webpack, REST API.
