@@ -28,28 +28,28 @@ Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch
 ### Full-stack Web Developer
 
 **Aleph One** | Kyiv, Ukraine | July 2020 - March 2021
-- Enterprise e-commerce platform SWAG.COM. Responsibilities: new features developing, taking part in architecture designing, tests development, code reviewing, bugs fixing.<br/>
-  **Stack**: Node.js, Express.js, React, TypeScript, Docker, Redis, AWS, Elasticsearch, Circle CI.
+- Enterprise e-commerce platform SWAG.COM. Responsibilities: development of new features, taking part in architecture designing, tests development, code reviewing, and bug fixing.<br/>
+  **Stack**: Node.js, Express.js, React.js, TypeScript, Docker, Redis, AWS, Elasticsearch, Circle CI.
 
 ### Full-stack Web Developer
 
 **Freelance** | New-York, USA | August 2019 - July 2020
 - B2B platform BUSINESS-DOCKER.COM. Application and database architecture designed. Micro-services architecture (Service discovery pattern). Developed REST API, admin panel and customer cabinet services, logger service, document parsers, and tests. Made integrations of the platform with warehouses accounting software.<br/>
-  **Stack**: Node.js, Express.js, React, TypeScript, Redis, REST API, Docker, Elasticsearch, Bitbucket CI.
+  **Stack**: Node.js, Express.js, React.js, TypeScript, Redis, REST API, Docker, Elasticsearch, Bitbucket CI.
 - Analytics project (NDA). Micro-services architecture (Queue-based integration). Developed database resolver service. Took part in architecture design.<br/>
-  **Stack**: Node.js, Express.js, React, TypeScript, Socket IO, Redis, Docker.
+  **Stack**: Node.js, Express.js, React.js, TypeScript, Socket IO, Redis, Docker.
 - Integrations project (NDA). Implemented integrations between real estate services and worked on integration provider projects. Micro-services architecture (Saga pattern).<br/>
-  **Stack**: Node.js, Python, React, AWS, PostgreSQL, MongoDB, Heroku, REST API.
+  **Stack**: Node.js, Python, React.js, AWS, PostgreSQL, MongoDB, Heroku, REST API.
 - E-commerce project QUICKNGOOD.COM. Application and database architecture design. Micro-services architecture (Service discovery pattern). Have created product search service, order service, CRM service, customer service, API service, logger service, frontend components (filters, cabinets, catalogs, etc), CDN service, data parsers, and tests.<br/>
-  **Stack**: Node.js, Express.js, Java (11), PostgreSQL, React, TypeScript, Redis, Docker, Elasticsearch, REST API.
+  **Stack**: Node.js, Express.js, Java (11), PostgreSQL, React.js, TypeScript, Redis, Docker, Elasticsearch, REST API.
 
 ### Full-stack Web Developer
 
 **JBW Soft** | Kyiv, Ukraine | Mar 2017 - August 2019
 - Analytics project (NDA). Application and database architecture designed. Micro-services architecture (Queue-based integration). Developed services: API service, client JS script (CDN), socket service, separate (parallel) backup service, and admin panel service. Integrated with clients.<br/>
-  **Stack**: Node.js, Express.js, SoketIO, React, TypeScript, Symfony 4 (PHP 7.3), PostgreSQL, MongoDB, Docker, RabbitMQ, Rest API.
+  **Stack**: Node.js, Express.js, SoketIO, React.js, TypeScript, Symfony 4 (PHP 7.3), PostgreSQL, MongoDB, Docker, RabbitMQ, Rest API.
 - Worked on CRM (NDA). Developed new features, fixed bugs, refactored code, optimized architecture, normalized database, and integrated with remote services.
-  **Stack**: Yii2 (PHP 7.1), MySQL (5.6), React, Docker, RabbitMQ, Redis, AWS.
+  **Stack**: Yii2 (PHP 7.1), MySQL (5.6), React.js, Docker, RabbitMQ, Redis, AWS.
 - Worked on order form and customer cabinet (NDA). Developed new features, developed tests, fixed bugs, and refactored code.<br/>
   **Stack**: AngularJS (ES6), Docker, SCSS, Webpack, REST API.
 - Analytic service (NDA). Application and database architecture designed. Developed integration mechanism between services, implemented business logic and background processes and created an admin panel.<br/>
@@ -69,7 +69,7 @@ Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch
 ## SKILLS ##
 
 - Key programming languages: Node.js, JavaScript, Java, PHP, SQL.
-- Key frameworks: Express.js, Nest.js, React, Spring, Symfony.
+- Key frameworks: Express.js, Nest.js, React.js, Spring, Symfony.
 - Key databases: PostgreSQL, MySQL, MongoDB.
 - Additional skills: SOLID, TypeScript, Docker, CSS3, SCSS/SASS.
 - Languages: English, Ukrainian.
@@ -84,7 +84,7 @@ Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch
 
 ## PERSONAL QUALITIES ##
 
-Nonconflicting, responsible, determined, always in touch, punctual, organized, have high learning abilities.
+Nonconflicting, responsible, determined, always in touch, punctual, organized, and have high learning abilities.
 
 
 <!--
