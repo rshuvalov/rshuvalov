@@ -3,7 +3,7 @@
 Kyiv, Ukraine | +380 638-332-399 | romanshuvalov@yahoo.com
 
 ## SUMMARY
-Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch, 4 legacy projects. Key technologies: Node.js, JavaScript, Java, PHP, SQL.
+Full-stack Web Developer. 8+ years of work experience. 10+ projects from scratch, 4 legacy projects. Key technologies: Node.js, JavaScript, Python, SQL.
 
 ## WORK EXPERIENCE
 
