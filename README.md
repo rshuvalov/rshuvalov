@@ -3,7 +3,7 @@
 Kyiv, Ukraine | +380 638-332-399 | romanshuvalov@yahoo.com
 
 ## SUMMARY
-Senior Software Engineer. 10+ years of work experience. 10+ projects from scratch, 4 legacy projects. Key technologies: Node.js, JavaScript, Python, SQL.
+Senior Software Engineer. 10+ years of work experience. 10+ projects from scratch, 4 legacy projects. Key technologies: Node.js, JavaScript, Python, SQL. AI: AI Product Engineering, AI Agents Engineering.
 
 ## WORK EXPERIENCE
 
@@ -68,10 +68,11 @@ Senior Software Engineer. 10+ years of work experience. 10+ projects from scratc
 
 ## SKILLS ##
 
-- Key programming languages: Node.js, JavaScript, Java, PHP, SQL.
-- Key frameworks: Express.js, Nest.js, React.js, Spring, Symfony.
-- Key databases: PostgreSQL, MySQL, MongoDB.
-- Additional skills: DevOps, TypeScript, Docker, Microservices, CSS3, SCSS/SASS.
+- Key programming languages: Node.js, JavaScript/TypeScript, Python, SQL.
+- Key frameworks: Express.js, Nest.js, React.js, FastAPI.
+- Key databases: PostgreSQL, MongoDB.
+- AI: AI Product Engineering, AI Agents Engineering, GenAI RAG Engineering.
+- Additional skills: DevOps, Docker, Microservices, CSS3, SCSS/SASS, Claude Code, OpenRouter, AI Studio, AWS Bedrock.
 - Languages: English, Ukrainian.
 
 ## EDUCATION ##
