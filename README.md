@@ -82,6 +82,14 @@ Senior Software Engineer. 10+ years of work experience. 10+ projects from scratc
 - 2014 – graduated from Search Engine Optimization (SEO) advanced course at the School of Internet Marketing of EMPO, Kyiv, Ukraine.
 - 2013 – graduated web-development course at the Information Technologies Center, Kyiv, Ukraine.
 
+## CERTIFICATIONS ##
+
+- 2026 - AI Agents Engineering, Prometheus.
+- 2026 - C++ Developer, Prometheus.
+- 2024 - DevOps and Kubernetes. Practical intensive course, Prometheus.
+- 2023 - MongoDB Node.js Developer Path, MongoDB.
+- 2022 - Management Foundations, LinkedIn.
+
 ## PERSONAL QUALITIES ##
 
 Nonconflicting, responsible, determined, always in touch, punctual, organized, and have high learning abilities.
